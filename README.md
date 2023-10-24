@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyotoeth
 - 👀 I’m a ethereum/starknet "maxi"
 - 🌱 I’m currently learning Cairo
-- 💞️ Discord : kyoto7.eth
+- 💞️ Discord : kyotofra.eth
 - 📫 Twitter : @kyotometa
 
 <!---
